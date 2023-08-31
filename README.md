@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/waxVImv.png)
 
-<p align="center">Ecommerce by <a href="">Pudtorials</p>
+<p align="center">Partner Relationship Management by <a href="">Pudtorials</p>
 
 ![](https://i.imgur.com/waxVImv.png)
 <br/>
@@ -20,12 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="https://tailwindcss.com/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg">
-      <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="350" height="70" style="max-width: 100%;">
-    </picture>
+  <a href="https://getbootstrap.com/">
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
   </a>
 </p>
 
@@ -36,7 +32,7 @@
 
 # 🔥 Features
 
-- Integration with the Tailwind CSS framework
+- Integration with the Bootstrap framework
 - Authentication portions of Jetstream are powered by Laravel Fortify
 - Two-factor authentication support
 - The page should automatically update without a page reload
@@ -59,4 +55,4 @@ php artisan serve
 
 # 📖 API documentation
 Documentation using Postman:
-<a href="">Ecommerce Documentation V 1.0.0</a>
+<a href="">Partner Relationship Management Documentation V 1.0.0</a>
