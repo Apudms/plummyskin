@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://laravel-livewire.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/51960834?s=100"></a>
+  <a href="https://laravel-livewire.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/51960834?s=120"></a>
 </p>
 
 <p align="center">
